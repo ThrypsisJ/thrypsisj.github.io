@@ -1,4 +1,2 @@
-<header>
-  <h1>This is blog</h1>
-</header>
+# Blog
 Test
